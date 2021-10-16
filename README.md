@@ -1,0 +1,1 @@
+# dockerize-openjdk-opencv-tesseract
